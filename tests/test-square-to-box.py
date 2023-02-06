@@ -15,7 +15,7 @@ sequence = PassSequence([
     label = "BOX B0",
     roll = Roll(
         groove = BoxGroove(
-            depth = 82e-3,
+            depth = 42e-3,
             r1 = 6e-3,
             r2 = 12e-3,
             ground_width = 130e-3,
@@ -24,7 +24,7 @@ sequence = PassSequence([
     nominal_radius = 270e-3,
     rotational_frequency = 1
     ),
-    gap = 40e-3,
+    gap = 30e-3,
     ),
 ])
 
